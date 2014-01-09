@@ -18,6 +18,11 @@ GuokrData
 
 * [果壳主题站文章数据的抓取和统计](https://github.com/GuokrUnion/GuokrData/tree/master/GuokrSites/GuokrArticle): 当时不知道有 API，所以分析的页面结构。
 
+![Date Distribution](https://raw.github.com/GuokrUnion/GuokrData/master/warehouse/image/GuokrArticle/SiLiXingPaiDate.jpg)
+![Word Count](https://raw.github.com/GuokrUnion/GuokrData/master/warehouse/image/GuokrArticle/SiLiXingPaiWordCount.jpg)
+
+~~ 见小组贴：http://www.guokr.com/post/545106/
+
 
 ## [果壳问答用户的个人数据和整体数据](https://github.com/GuokrUnion/GuokrData/tree/master/GuokrQA)
 
