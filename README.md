@@ -30,6 +30,7 @@ GuokrData
 ### 果壳问答数据
 
 * [果壳问答质量的评估可视化方法探究](https://github.com/GuokrUnion/GuokrData/blob/master/GuokrQA/QAEvaluation.nb)
+
 ![GuokrQAVisEva](https://raw.github.com/GuokrUnion/GuokrData/master/warehouse/image/GuokrQADataVis/QAEva1.jpg)
 
 ~~ 见我的豆瓣日记：http://www.douban.com/note/272403234/
