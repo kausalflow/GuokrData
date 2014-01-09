@@ -12,6 +12,11 @@ GuokrData
 是由 [lotus9](http://www.guokr.com/i/2063735696/) 和 [时见疏星](http://www.guokr.com/i/1769480175/) 统计完成的。
 
 
+## [果壳主题站相关](https://github.com/GuokrUnion/GuokrData/tree/master/GuokrSites)
+
+* [果壳主题站文章数据的抓取和统计](https://github.com/GuokrUnion/GuokrData/tree/master/GuokrSites/GuokrArticle): 当时不知道有 API，所以分析的页面结构。
+
+
 ## [果壳问答用户的个人数据和整体数据](https://github.com/GuokrUnion/GuokrData/tree/master/GuokrQA)
 
 
