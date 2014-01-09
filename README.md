@@ -7,6 +7,8 @@ GuokrData
 
 ## [果壳达人用户分布](https://github.com/GuokrUnion/GuokrData/tree/master/GuokrUsers)
 
+![GuokrDaRenDist](https://raw.github.com/GuokrUnion/GuokrData/master/warehouse/image/GuokrDaRenDist.png)
+
 * 最原始的 [Google Drive 文件](https://docs.google.com/spreadsheet/ccc?key=0ArT0SDdPDm_7dE9qMExQN2U2eHZPVzJMWTBKVnhMU2c&usp=sharing)
 
 是由 [lotus9](http://www.guokr.com/i/2063735696/) 和 [时见疏星](http://www.guokr.com/i/1769480175/) 统计完成的。
